@@ -9,3 +9,14 @@ body {
 .placeholder-box {
   min-height: 240px;
 }
+
+/* Блок вместо фото товара */
+.placeholder-image {
+  min-height: 320px;
+}
+
+/* Фото в карточке: одна высота, без искажений */
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+}
