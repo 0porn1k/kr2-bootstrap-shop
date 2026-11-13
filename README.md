@@ -22,7 +22,7 @@ Bootstrap подключён через CDN (jsDelivr):
 
 ## Ссылка на опубликованный проект
 
-GitHub Pages: https://0porn1k.github.io/kr2-bootstrap-shop/ (после публикации)
+GitHub Pages: https://0porn1k.github.io/kr2-bootstrap-shop/
 
 ## Структура проекта
 
@@ -76,5 +76,5 @@ kr2-bootstrap-shop/
 
 ## Автор
 
-ФИО: Dmitrii Portnov  
-Группа: укажите свою группу
+ФИО: Портнов Дмитрий 
+Группа: эфбо-17-25
